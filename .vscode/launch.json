@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "MIMode": "gdb",
+      "args": [],
+      "cwd": "${fileDirname}",
+      "env": {
+        "PATH": "D:\\gytx_x86_64-14.2.0-win32-seh-ucrt\\mingw64\\bin;${env:PATH}"
+      },
+      "environment": [],
+      "externalConsole": true,
+      "internalConsoleOptions": "neverOpen",
+      "miDebuggerPath": "D:\\gytx_x86_64-14.2.0-win32-seh-ucrt\\mingw64\\bin\\gdb.exe",
+      "name": "single file debug",
+      "preLaunchTask": "single file build",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "request": "launch",
+      "stopAtEntry": false,
+      "type": "cppdbg"
+    }
+  ],
+  "version": "0.2.0"
+}

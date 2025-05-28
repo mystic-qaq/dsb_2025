@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "compilerPath": "D:\\gytx_x86_64-14.2.0-win32-seh-ucrt\\mingw64\\bin\\g++.exe",
+      "cppStandard": "c++23",
+      "includePath": [
+        "${{workspaceFolder}}/**"
+      ],
+      "intelliSenseMode": "windows-gcc-x64",
+      "name": "Win32"
+    }
+  ],
+  "version": 4
+}
